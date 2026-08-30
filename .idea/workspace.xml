@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c44aab-5de7-4a06-973f-2bdfd9b7d990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lead-drop-engine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup_webhook.py" afterDir="false" />
+    <list default="true" id="d4c44aab-5de7-4a06-973f-2bdfd9b7d990" name="Changes" comment="feat: complete twilio voice webhook and supabase lead capture">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup_webhook.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup_webhook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,9 +141,22 @@
       <option name="presentableId" value="Default" />
       <updated>1788056739835</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: complete twilio voice webhook and supabase lead capture">
+      <option name="closed" value="true" />
+      <created>1788061809115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788061809115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: complete twilio voice webhook and supabase lead capture" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: complete twilio voice webhook and supabase lead capture" />
   </component>
 </project>

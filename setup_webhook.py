@@ -9,7 +9,7 @@ auth_token = os.getenv("TWILIO_AUTH_TOKEN")
 twilio_phone = os.getenv("TWILIO_PHONE_NUMBER")
 
 # active ngrok URL
-NGROK_BASE_URL = "https://spearfish-reoccur-reflex.ngrok-free.dev"
+NGROK_BASE_URL = "https://lead-drop-engine.onrender.com"
 
 client = Client(account_sid, auth_token)
 
