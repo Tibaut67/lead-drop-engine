@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c44aab-5de7-4a06-973f-2bdfd9b7d990" name="Changes" comment="&quot;chore: update webhook base url to render&quot;" />
+    <list default="true" id="d4c44aab-5de7-4a06-973f-2bdfd9b7d990" name="Changes" comment="&quot;chore: path change&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/lead-drop-engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lead-drop-engine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,37 +23,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Tibaut67"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tibaut67&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Tibaut67/lead-drop-engine.git",
-    "accountId": "b1a00174-88fb-4c7c-9071-54f7ffb935fb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tibaut67/lead-drop-engine.git&quot;,
+    &quot;accountId&quot;: &quot;b1a00174-88fb-4c7c-9071-54f7ffb935fb&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="MS100" value="1.0131915549689325" />
+      <entry key="MS500" value="1.8201211621123026" />
+      <entry key="S2" value="3.1438018335138755" />
+      <entry key="S5" value="3.620326525820712" />
+      <entry key="S10" value="3.8033289547078666" />
+      <entry key="S30" value="3.932859996198608" />
+      <entry key="S60" value="3.9662279649778345" />
+      <entry key="M2" value="3.9830631566918107" />
+      <entry key="M5" value="3.993213023607164" />
+      <entry key="M10" value="3.9966044685422477" />
+      <entry key="M15" value="3.9977358580500035" />
+      <entry key="M30" value="3.9988677018058647" />
+      <entry key="H1" value="3.9994337940862597" />
+      <entry key="H2" value="3.9997168828374754" />
+      <entry key="H4" value="3.9998584378671387" />
+      <entry key="D1" value="3.999976405817896" />
+      <entry key="W1" value="3.999996629390476" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,52 +75,52 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492140118" />
-      <entry key="MS500" value="0.9876008614453725" />
-      <entry key="S2" value="0.9968856972203758" />
-      <entry key="S5" value="0.9987531130852756" />
-      <entry key="S10" value="0.9993763620805105" />
-      <entry key="S30" value="0.9997920774647191" />
-      <entry key="S60" value="0.9998960333278251" />
-      <entry key="M2" value="0.9999480153127087" />
-      <entry key="M5" value="0.9999792058007856" />
-      <entry key="M10" value="0.9999896028463424" />
-      <entry key="M15" value="0.999993068552217" />
-      <entry key="M30" value="0.9999965342701028" />
-      <entry key="H1" value="0.99999826713355" />
-      <entry key="H2" value="0.9999991335663997" />
-      <entry key="H4" value="0.999999566783106" />
-      <entry key="D1" value="0.9999999277971713" />
-      <entry key="W1" value="0.9999999896853099" />
+      <entry key="MS100" value="0.8535577364222552" />
+      <entry key="MS500" value="1.7703904416808824" />
+      <entry key="S2" value="3.1231154359572124" />
+      <entry key="S5" value="3.6108015632681134" />
+      <entry key="S10" value="3.798323577333976" />
+      <entry key="S30" value="3.9311339546029633" />
+      <entry key="S60" value="3.9653575099162333" />
+      <entry key="M2" value="3.982626052428311" />
+      <entry key="M5" value="3.9930377291420975" />
+      <entry key="M10" value="3.9965167456536763" />
+      <entry key="M15" value="3.9976773592972834" />
+      <entry key="M30" value="3.998838444012361" />
+      <entry key="H1" value="3.9994191630845393" />
+      <entry key="H2" value="3.9997095668102873" />
+      <entry key="H4" value="3.999854779721952" />
+      <entry key="D1" value="3.9999757961087545" />
+      <entry key="W1" value="3.9999965422887223" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IcH3iyUlh8J3WWdu4nsbHABBx2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/tibau/Python/lead-drop-engine",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tibau/Downloads/School and Work/Code/Python/lead-drop-engine&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tibau\Python\lead-drop-engine" />
@@ -137,6 +140,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788056739835</updated>
+      <workItem from="1788119723372" duration="270000" />
+      <workItem from="1788305414320" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="feat: complete twilio voice webhook and supabase lead capture">
       <option name="closed" value="true" />
@@ -154,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788062510661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;chore: path change&quot;">
+      <option name="closed" value="true" />
+      <created>1788119761496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788119761496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: complete twilio voice webhook and supabase lead capture" />
     <MESSAGE value="&quot;chore: update webhook base url to render&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;chore: update webhook base url to render&quot;" />
+    <MESSAGE value="&quot;chore: path change&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;chore: path change&quot;" />
   </component>
 </project>
